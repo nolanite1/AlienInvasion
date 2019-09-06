@@ -18,5 +18,6 @@ class Ship():
             self.center+=self.ai_settings.ship_speed_factor
         if self.moving_left:
             self.center-=self.ai_settings.ship_speed_factor
+        self.rect.centerx = self.center
     def blitme(self):
         self.screen.blit(self.image, self.rect)
