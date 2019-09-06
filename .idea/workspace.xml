@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="663df6d4-f67c-4542-b9d5-e87b1a10be35" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/ship.py" afterDir="false" />
-    </list>
+    <list default="true" id="663df6d4-f67c-4542-b9d5-e87b1a10be35" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +86,7 @@
       <workItem from="1567458796588" duration="3685000" />
       <workItem from="1567474958604" duration="639000" />
       <workItem from="1567628159958" duration="2700000" />
-      <workItem from="1567729462071" duration="624000" />
+      <workItem from="1567729462071" duration="1435000" />
     </task>
     <servers />
   </component>
